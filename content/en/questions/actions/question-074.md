@@ -4,7 +4,7 @@ title: "Question 074"
 ---
 
 
-> https://docs.github.com/en/actions/reference/environment-variables#default-environment-variables
+> https://docs.github.com/en/actions/reference/variables-reference#default-environment-variables
 
 1. [x] `GITHUB_REPOSITORY`
 1. [ ] `GITHUB_REPOSITORY_ID`
